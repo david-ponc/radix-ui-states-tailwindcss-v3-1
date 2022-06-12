@@ -2,6 +2,7 @@
 	"name": "vite-tailwindcss3.1",
 	"private": true,
 	"version": "1.0.0",
+	"homepage": "https://david-ponc.github.io/radix-ui-states-tailwindcss-v3-1",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
