@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:focus {
+  @apply outline-none;
+  @apply ring-[3px];
+  @apply ring-offset-2;
+  @apply ring-offset-white;
+  @apply dark:ring-offset-zinc-900;
+}
